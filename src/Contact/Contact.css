@@ -1,0 +1,21 @@
+.contact_container{
+    padding-top: 120px;
+    background-color: rgb(245, 248, 250);
+    color: rgb(6, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-bottom: 300px;
+}
+.contact_form{
+padding-left: 0px;
+}
+@media only screen and (max-width: 991px) {
+    .contact_container{
+        flex-direction: column;
+    }
+    p{
+        font-size: 10px;
+    }
+  
+  }

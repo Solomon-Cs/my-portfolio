@@ -1,0 +1,29 @@
+.about_container{
+    padding-top: 150px;
+    padding-left: 200px;
+    padding-bottom: 50px;
+    background-color: rgb(8, 27, 41);
+    color: white;
+    height: 700px;
+}
+.resumeBtn{
+    margin-top: 40px;
+    margin-left: 180px;
+}
+
+@media only screen and (max-width: 991px) {
+
+    .about_container{
+        padding-top: 80px;
+        padding-left: 50px;
+        padding-right: 20px;
+        padding-bottom: 50px;
+        background-color: rgb(8, 27, 41);
+        color: white;
+        height: 500px;
+    }
+    .resumeBtn{
+        margin-top: 40px;
+        margin-left: 100px;
+    }
+}

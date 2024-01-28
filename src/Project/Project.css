@@ -1,0 +1,100 @@
+.Project_container_all{
+    padding-top: 90px;
+    background-color: rgb(245, 248, 250);
+
+}
+.project_container{
+    padding-top: 50px;
+    background-color: rgb(245, 248, 250);
+    color: rgb(6, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-bottom: 100px;
+}
+.project_container1{
+    padding-top: 0px;
+    background-color: white;
+    color: rgb(6, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-bottom: 10px;
+}
+.Imagesize0{
+    border-radius: 5px;
+    width: 600px;
+    height:350px;
+}
+.Imagesize1{
+    border-radius: 10px;
+    width: 400px;
+    height:280px;
+}
+.Imagesize2{
+    border-radius: 10px;
+    width: 400px;
+    height:200px;
+}
+.project_List{
+    padding-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-bottom: 200px;
+}
+.Project_list_fotter{
+    padding-left: 90px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Project_h1{
+    padding-left: 200px;
+}
+
+@media only screen and (max-width: 991px) {
+    .project_container1{
+        padding-top: 0px;
+        background-color: white;
+        color: rgb(6, 0, 0);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        padding-bottom: 10px;
+    }
+    .Imagesize0{
+        width: 320px;
+        height: 180px;
+    }
+    .project_container{
+        flex-direction: column;
+    }
+    p{
+        font-size: 10px;
+    }
+    .project_List{
+        padding-top: 50px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        padding-bottom: 90px;  
+    }
+    .projectListPaper{
+        height: 700;
+        width: 100;
+        borderRadius: 5;
+        backgroundColor: #1A2027;
+    }
+    .papers{
+        margin-top: 50px;
+    }
+
+    .Project_h1{
+        padding-left: 10px;
+        font-size: 12px;
+
+    }
+  }
