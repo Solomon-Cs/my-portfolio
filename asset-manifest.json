@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.d20ff393.css",
+    "main.js": "/my-portfolio/static/js/main.5c2eec26.js",
+    "static/media/portfolio1.png": "/my-portfolio/static/media/portfolio1.3373c5711949579bf332.png",
+    "static/media/SLMS Home page.PNG": "/my-portfolio/static/media/SLMS Home page.2eb5623dfb893d9c5664.PNG",
+    "static/media/MSMS Home page.PNG": "/my-portfolio/static/media/MSMS Home page.894dce9307cbb93368fe.PNG",
+    "static/media/MSMS Super Admin page.PNG": "/my-portfolio/static/media/MSMS Super Admin page.d66e5191afca8255b865.PNG",
+    "static/media/work Example.PNG": "/my-portfolio/static/media/work Example.af21c59441903e242264.PNG",
+    "static/media/Employee HR Home.PNG": "/my-portfolio/static/media/Employee HR Home.eef8eef302ad2e58c791.PNG",
+    "static/media/SolomonsCV.pdf": "/my-portfolio/static/media/SolomonsCV.005528d276f52484a09c.pdf",
+    "index.html": "/my-portfolio/index.html",
+    "main.d20ff393.css.map": "/my-portfolio/static/css/main.d20ff393.css.map",
+    "main.5c2eec26.js.map": "/my-portfolio/static/js/main.5c2eec26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20ff393.css",
+    "static/js/main.5c2eec26.js"
+  ]
+}
