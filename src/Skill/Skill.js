@@ -25,7 +25,7 @@ const Skill = () => {
         <div className="skill_List">
           <h4>Material UI</h4>
           <h4>Mantine</h4>
-          <h4>Express js</h4>
+          <h4>Next js</h4>
         </div>
         <div className="skill_List">
           <h4>MYSQL</h4>

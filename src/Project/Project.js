@@ -1,6 +1,6 @@
 import React from "react";
 import "./Project.css";
-import image1 from "../Image/portfolio1.png";
+import image1 from "../Image/portfolio3.png";
 import image2 from "../Image/Employee HR Home.PNG";
 import image3 from "../Image/MSMS Home page.PNG";
 import image4 from "../Image/SLMS Home page.PNG";

@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.css";
-import bg from "../Image/portfolio1.png";
+import bg from "../Image/portfolio3.png";
 import { Button, Divider } from "@mantine/core";
 import About from "../About/About";
 import Skill from "../Skill/Skill";
