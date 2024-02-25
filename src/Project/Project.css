@@ -21,6 +21,18 @@
     justify-content: space-evenly;
     padding-bottom: 10px;
 }
+.card_ditail{
+    opacity: 0;
+}
+.papers:hover{
+    transition: all 0.2s ease-in-out;
+    transform: scale(1.08);
+}
+
+.papers:hover .card_ditail{
+    opacity: 1;
+}
+
 .Imagesize0{
     border-radius: 5px;
     width: 600px;
@@ -63,6 +75,7 @@
         align-items: center;
         justify-content: space-evenly;
         padding-bottom: 10px;
+
     }
     .Imagesize0{
         width: 320px;
